@@ -1,0 +1,23 @@
+# Instructions for Running the Program
+
+## Preparations
+
+- Make sure point data set files (pts) that you want to test are in the same directory 
+as the rest of the project file.
+
+## Running the Program
+
+1. **Open Terminal/Command Prompt**: Navigate to the directory containing your program 
+and input files.
+   
+2. **Execute the Program**: Type 'python3 main_test_demo.py [path to point data set] 
+[capacity value]'
+
+3. **Answer the Prompt to Specify Dataset Type**: Type 'bathymetric' or 'chm' to choose 
+what is computed and outputed
+    - As the project description specifies, roughness, curvature, and maxima are to be 
+    computed and outputed for a bathymetric dataset while only the maxima is processed 
+    for a chm dataset
+
+Ensure your input files are correctly formatted and located in the same directory as 
+the program for seamless execution.
